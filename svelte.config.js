@@ -9,7 +9,7 @@ const config = {
 
 	kit: {
 		adapter: adapter(),
-		tarket: "#svelte",
+		// target: '#svelte',
 		vite: {
 			server: {
 				hmr: {
